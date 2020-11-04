@@ -1,4 +1,4 @@
-name: "PyCaret AutoML Git Action v1"
+name: "test v1"
 description: "A simple example of AutoML created using PyCaret 2.0"
 author: "Moez Ali"
 inputs:
